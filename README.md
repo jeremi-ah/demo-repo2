@@ -1,1 +1,1 @@
-Expalnation of what the project entails
+Explanation of what the project entails
