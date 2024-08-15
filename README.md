@@ -1,1 +1,1 @@
-First file
+Expalnation of what the project entails
